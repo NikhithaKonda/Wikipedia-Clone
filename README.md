@@ -5,7 +5,11 @@ The Wikipedia Clone Project is a web application developed using Javascript, Htm
 **Features**
 
 Browse articles covering diverse topics.
+
 View articles with text, images, and links.
+
 Create new articles on uncovered topics.
+
 Track article history for version control.
+
 Admin panel for managing users, articles, and settings.
