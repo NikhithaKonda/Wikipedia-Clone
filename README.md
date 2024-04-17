@@ -1,0 +1,1 @@
+The Wikipedia Clone Project is a web application developed using Javascript, Html, CSS web technologies. It provides users with an interface similar to Wikipedia, where they can access articles, edit content, and contribute to the knowledge base.
